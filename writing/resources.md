@@ -2,6 +2,13 @@
 
 ## Table Of Contents
 
+- [**Blogs**](#Blogs)
+- [**Other Resources**](#Other-Resources)
+- [**Video Resources**](#Video-Resources)
+- [**Podcast**](#Podcast)
+
+
+
 ### Blogs
 
 1. [Become a Technical Writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)

@@ -40,7 +40,7 @@ Good Links to get started:
 - A course by the professor who created the language (Martin Odersky): https://www.coursera.org/learn/scala-functional-programming
 
 Good Books (if you want to go deep):
-https://docs.scala-lang.org/books.html (edited)
+https://docs.scala-lang.org/books.html
 
 ## Learning Akka:
 Akka is a framework for the Actor Model written in Java/Scala.
